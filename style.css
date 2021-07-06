@@ -9,7 +9,7 @@ h1{
 .sunflower-color{
     color: #f1c40f;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -46,9 +46,13 @@ P{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
     
+.myrecepies-area{
+    width: 35%;
+    text-align: center;
     
-    
+}    
     
     
    
