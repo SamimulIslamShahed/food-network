@@ -6,24 +6,24 @@ h1{
     font-size: 45px;
     line-height: 35px   
 }
-.sunflower-color{
+.sunflower-color {
     color: #f1c40f;
 }
-.flexible-container{
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
-.half-width{
+.half-width {
     width: 50%;
     padding-left: 5%;
     padding-top: 5%;
 }
-.half-width img{
+.half-width img {
     width: 80%;
     width: 55%;
     
 }
- .link-button{
+ .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
     padding: 10px 40px;
@@ -31,32 +31,71 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
-#example{
+#example {
     box-shadow: 10px 10px 8px 10px #888888;
 }
-P{
+P {
     margin-bottom: 50px;
 }
-.top{
+.top {
     background-image: url(images/shapes/dream-big.png);
     background-repeat: no-repeat;
     background-position: right;
 } 
-.about-me{
+.about-me {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
     
-.myrecepies-area{
-    width: 35%;
+.myrecepies-area {
+    margin-top: 60px;
     text-align: center;
-    
 }    
-    
-    
-   
+.food-box {
+    width: 25%;
+    margin : 15px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px rgb(156,155,155);
+       
 }
+.food-img {
+    width: 100%;
+}
+.food p {
+     margin: 15px 0;
+ }
+.followers-tab {
+    width: 87%;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 120px;
+    padding: 50px 0;
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px rgb(156,155,155);
+}
+.followers-tab p {
+    margin: 0;
+}
+.box{
+    margin: 0 80px;
+}
+footer {
+    background-color: black;
+    text-align: center;
+    padding-top: 15px;  
+    padding-bottom: 50px;
+}
+.footer-mark{
+    color: chocolate;
+}
+
+
+
+
+
      
      
  
