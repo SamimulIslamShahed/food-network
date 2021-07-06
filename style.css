@@ -1,5 +1,5 @@
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
 }
 
@@ -13,6 +13,11 @@ body{
 .header{
     width: 50%;
     text-align: center;
+}
+
+.logo-color{
+    color: tomato;
+
 }
 
 .logo{
@@ -56,7 +61,7 @@ a{
 }
 
 .top_sec-color{
-    color: #FB8E49;
+    color: #ec6009;
 }
 
 .center{
@@ -142,7 +147,7 @@ p{
 }
 
 .box p{
-    color: #565656;
+    color: #020202;
 }
 
 .text-center{
@@ -165,13 +170,19 @@ p{
 /*--- Social section------*/
 
 .address-section{
-    margin-top: 10px;
-    margin-left: 20%;
-    margin-right: 350px;
-    border-radius: 20px;
-    padding: 10px;
+    width: 87%;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 30px;
+    padding: 50px 0;
     border: 2px solid white;
-    box-shadow: 0px 0px 10px #c2c2c2;
+    box-shadow: 0px 0px 15px #c2c2c2;
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.address-section p{
+    margin: 0;
 }
 
 .last-width{
@@ -243,10 +254,10 @@ form button:hover{
 /*--- footer section------*/
 
 .footer{
-    margin-top: 50px;
     background-color: black;
-    padding: 10px;
     text-align: center;
+    padding-top: 15px;
+    padding-bottom: 50px;
 }
 
 .footer h1{
