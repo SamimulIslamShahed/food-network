@@ -11,13 +11,17 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
+    padding-top: 5%;
 }
 .half-width img{
     width: 80%;
+    width: 55%;
+    
 }
  .link-button{
     text-decoration: none;
@@ -33,3 +37,22 @@ section{
 P{
     margin-bottom: 50px;
 }
+.top{
+    background-image: url(images/shapes/dream-big.png);
+    background-repeat: no-repeat;
+    background-position: right;
+} 
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+    
+   
+}
+     
+     
+ 
